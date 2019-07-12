@@ -1,4 +1,4 @@
-# pm2 watchdog
+# pm2 watchdog with http health check
 
  * Start
 ```

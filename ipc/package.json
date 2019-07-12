@@ -1,0 +1,15 @@
+{
+  "name": "watchdog-pm2-example-ipc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-ipc": "^9.1.1",
+    "pm2": "^3.5.1"
+  }
+}
